@@ -7,7 +7,6 @@
 💻 **사용자의 문제를 해결하고 제품의 성장을 만들어내는 Product Engineer입니다.**
 
 📧 **Email** : Jihong9412@gmail.com  
-🌐 **Portfolio** : [Notion Link](https://github.com/JJJiL0ng)  
 ✍️ **GitHub** : [JJJiL0ng](https://github.com/JJJiL0ng)
 
 <br/>
@@ -72,7 +71,7 @@
 
 <br/><br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJJiL0ng&count_bg=%234A90E2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+<img src="https://hits.sh/github.com/JJJiL0ng.svg?style=for-the-badge&color=4A90E2&labelColor=555555&label=hits" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" width="100%" />
 
